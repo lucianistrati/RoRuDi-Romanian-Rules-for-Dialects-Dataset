@@ -1,1 +1,193 @@
-{'crisanean': {'fonetical_rules': {'ne': 'ine', 'ă': 'e', 'a': 'ea', 'â': 'i', 'j': 'g', 'ii': 'âi', 'scl': 'sl', 'anu': 'nu', 'r': 'n'}, 'fonetical_examples': {'câne': 'câine', 'să rupe': 'se rupe', 'orășan': 'orășean', 'țân': 'țin', 'zâc': 'zic', 'jer': 'ger', 'întii': 'întâi', 'sclab': 'slab', 'anumără': 'numără', 'lură': 'lună'}, 'gramatical_rules': {'i': 'ui', ' îs ': ' sunt ', ' îi ': ' e ', ' o ': ' a ', ' or ': ' au ', ' și ': ' să ', ' m-am ': ' mă ', ' o vu(t) ': ' ar fi ', ' a ': ' ale '}}, 'banatean': {'fonetical_rules': {'ge': 'de', 'ce': 'te'}, 'fonetical_examples': {'curte': 'avlie', 'iaurt': 'covăsât', 'dulap': 'credenț', 'canapea': 'dereș', 'perdea': 'firang', 'șoarece': 'hârț', 'față de masă': 'măsai', 'prosop': 'peșchir', 'fier de călcat': 'piglais', 'sobă': 'spoiert', 'ciorap': 'strimf', 'lalea': 'tulipan', 'sticlă': 'uiagă'}, 'gramatical_rules': {'ge': 'de', 'ce': 'te'}}, 'ardelean': {'fonetical_rules': {'e': 'ea', 'o': 'oa', 'u': 'o', 'ine': 'ane'}, 'fonetical_examples': {' durmi ': ' dormi ', ' adurmi ': ' adormi '}, 'gramatical_rules': {'ghe': 'de', 'che': 'te'}}, 'oltean': {'fonetical_rules': {'ai': 'a', 'ăi': 'ă', 'ă': 'e', 'ei': 'e', ' oi': ' o', 'hir': 'hr', ' iș': ' ș', 'â': 'i', 'a': 'ea'}, 'fonetical_examples': {'straichină': 'strachină', 'răichită': 'răchită', 'ureiche': 'ureche', 'oichi': 'ochi', 'păduiche': 'păduche', 'hirean': 'hrean', 'ișcoală': 'școală', 'zâce': 'zice', 'țălină': 'țelină', 'măsa': 'măsea'}, 'gramatical_rules': {'cântai': 'am cântat', 'ici': 'aici', 'acia': 'aici', 'aici': 'aici', 'aci': 'aici', 'nu cântareți!': 'nu cântați!'}, 'lexical_examples': {' ar m': ' șold ', ' a străfiga ': ' a strănuta ', ' cotoi ': ' \tpicior de pasăre'}}, 'moldovean': {'fonetical_rules': {'chi': 'pi', 'fi': 'fe', 'și': 'ci'}, 'fonetical_examples': {'roșie': 'pătlăgică', 'pepene': 'harbuz', 'pepene galben': 'zămos/dzămos', 'dovleac': 'bostan', 'ardei': 'chiperi', 'zăpadă': 'omăt', 'cartof': 'barabulă/cartof'}, 'gramatical_rules': {'chi': 'pi', 'fi': 'fe', 'și': 'ci'}}, 'muntean': {'fonetical_rules': {'e ': 'ă ', 'ă': 'e', 'i': 'e', 'â': 'i'}, 'fonetical_examples': {'ușe': 'ușă', 'loje': 'lojă', 'dăștept': 'deștept ', ' dân ': ' din ', 'fetili': 'fetele', 'caprili': 'caprele'}, 'gramatical_rules': {'a': 'au', 'dupe': 'de pe', 'după': 'de pe', ' de ': ' care '}, 'rules': {'pă': 'pe'}, 'lexical_examples': {'ginere': 'mire', 'ciușcă': 'ardei iute', 'peșchir': 'prosop', 'perdea': 'adăpost pentru vite', 'dârmon': 'ciur'}, 'gramatical_examples': {' am decât două mere ': ' n-am decât două mere ', ' nu mai mă duc ': ' nu mă mai duc ', ' mănâncă la pâine ': ' mănâncă pâine', ' omul de vine ': ' omul care vine ', ' floarea după/dupe masă ': ' floarea de pe masă', ' grinda vine așezată aici ': ' grinda este așezată aici', ' \tvine și/de crește ': ' începe să crească', ' am vrut să cad ': ' era să cad', ' ei/ele a venitără ': ' ei/ele au venit ', ' ei/ele va bea ': ' ei/ele vor bea ', ' ei/ele bea ': ' ei/ele beau '}}, 'maramuresean': {'fonetical_rules': None, 'fonetical_examples': None, 'gramatical_rules': None}, 'timocean': {'fonetical_rules': None, 'fonetical_examples': None, 'gramatical_rules': None}}
+{
+  "crisanean": {
+    "fonetical_rules": {
+      "ne": "ine",
+      "ă": "e",
+      "a": "ea",
+      "â": "i",
+      "j": "g",
+      "ii": "âi",
+      "scl": "sl",
+      "anu": "nu",
+      "r": "n"
+    },
+    "fonetical_examples": {
+      "câne": "câine",
+      "să rupe": "se rupe",
+      "orășan": "orășean",
+      "țân": "țin",
+      "zâc": "zic",
+      "jer": "ger",
+      "întii": "întâi",
+      "sclab": "slab",
+      "anumără": "numără",
+      "lură": "lună"
+    },
+    "gramatical_rules": {
+      "i": "ui",
+      " îs ": " sunt ",
+      " îi ": " e ",
+      " o ": " a ",
+      " or ": " au ",
+      " și ": " să ",
+      " m-am ": " mă ",
+      " o vu(t) ": " ar fi ",
+      " a ": " ale "
+    }
+  },
+  "banatean": {
+    "fonetical_rules": {
+      "ge": "de",
+      "ce": "te"
+    },
+    "fonetical_examples": {
+      "curte": "avlie",
+      "iaurt": "covăsât",
+      "dulap": "credenț",
+      "canapea": "dereș",
+      "perdea": "firang",
+      "șoarece": "hârț",
+      "față de masă": "măsai",
+      "prosop": "peșchir",
+      "fier de călcat": "piglais",
+      "sobă": "spoiert",
+      "ciorap": "strimf",
+      "lalea": "tulipan",
+      "sticlă": "uiagă"
+    },
+    "gramatical_rules": {
+      "ge": "de",
+      "ce": "te"
+    }
+  },
+  "ardelean": {
+    "fonetical_rules": {
+      "e": "ea",
+      "o": "oa",
+      "u": "o",
+      "ine": "ane"
+    },
+    "fonetical_examples": {
+      " durmi ": " dormi ",
+      " adurmi ": " adormi "
+    },
+    "gramatical_rules": {
+      "ghe": "de",
+      "che": "te"
+    }
+  },
+  "oltean": {
+    "fonetical_rules": {
+      "ai": "a",
+      "ăi": "ă",
+      "ei": "e",
+      "ă": "e",
+      " oi": " o",
+      "hir": "hr",
+      " iș": " ș",
+      "â": "i",
+      "a": "ea"
+    },
+    "fonetical_examples": {
+      "straichină": "strachină",
+      "răichită": "răchită",
+      "ureiche": "ureche",
+      "oichi": "ochi",
+      "păduiche": "păduche",
+      "hirean": "hrean",
+      "ișcoală": "școală",
+      "zâce": "zice",
+      "țălină": "țelină",
+      "măsa": "măsea"
+    },
+    "gramatical_rules": {
+      "cântai": "am cântat",
+      "aici": "aici",
+      "ici": "aici",
+      "aci": "aici",
+      "acia": "aici",
+      "nu cântareți!": "nu cântați!"
+    },
+    "lexical_examples": {
+      " ar m": " șold ",
+      " a străfiga ": " a strănuta ",
+      " cotoi ": " \tpicior de pasăre"
+    }
+  },
+  "moldovean": {
+    "fonetical_rules": {
+      "chi": "pi",
+      "fi": "fe",
+      "și": "ci"
+    },
+    "fonetical_examples": {
+      "roșie": "pătlăgică",
+      "pepene": "harbuz",
+      "pepene galben": "zămos/dzămos",
+      "dovleac": "bostan",
+      "ardei": "chiperi",
+      "zăpadă": "omăt",
+      "cartof": "barabulă/cartof"
+    },
+    "gramatical_rules": {
+      "chi": "pi",
+      "fi": "fe",
+      "și": "ci"
+    }
+  },
+  "muntean": {
+    "fonetical_rules": {
+      "e ": "ă ",
+      "i": "e",
+      "ă": "e",
+      "â": "i"
+    },
+    "fonetical_examples": {
+      "ușe": "ușă",
+      "loje": "lojă",
+      "dăștept": "deștept ",
+      " dân ": " din ",
+      "fetili": "fetele",
+      "caprili": "caprele"
+    },
+    "gramatical_rules": {
+      "a": "au",
+      "dupe": "de pe",
+      "după": "de pe",
+      " de ": " care "
+    },
+    "rules": {
+      "pă": "pe"
+    },
+    "lexical_examples": {
+      "ginere": "mire",
+      "ciușcă": "ardei iute",
+      "peșchir": "prosop",
+      "perdea": "adăpost pentru vite",
+      "dârmon": "ciur"
+    },
+    "gramatical_examples": {
+      " am decât două mere ": " n-am decât două mere ",
+      " nu mai mă duc ": " nu mă mai duc ",
+      " mănâncă la pâine ": " mănâncă pâine",
+      " omul de vine ": " omul care vine ",
+      " floarea după/dupe masă ": " floarea de pe masă",
+      " grinda vine așezată aici ": " grinda este așezată aici",
+      " \tvine și/de crește ": " începe să crească",
+      " am vrut să cad ": " era să cad",
+      " ei/ele a venitără ": " ei/ele au venit ",
+      " ei/ele va bea ": " ei/ele vor bea ",
+      " ei/ele bea ": " ei/ele beau "
+    }
+  },
+  "maramuresean": {
+    "fonetical_rules": null,
+    "fonetical_examples": null,
+    "gramatical_rules": null
+  },
+  "timocean": {
+    "fonetical_rules": null,
+    "fonetical_examples": null,
+    "gramatical_rules": null
+  }
+}
